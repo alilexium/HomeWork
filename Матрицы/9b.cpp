@@ -9,8 +9,8 @@ struct Haracteristika
 	int power;
 	int speed;
 };
-const int rows = 3;
-const int cols = 3;
+const int rows = 7;
+const int cols = 7;
 void func(std::array<std::array<Haracteristika, cols>, rows> doska)
 {
 	for (int i = 0; i < rows; i++){
