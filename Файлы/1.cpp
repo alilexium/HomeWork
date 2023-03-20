@@ -1,4 +1,4 @@
-//Чтение заголовков файлов
+//Р§С‚РµРЅРёРµ Р·Р°РіРѕР»РѕРІРєРѕРІ С„Р°Р№Р»РѕРІ
 #include <iostream>
 #include <fstream>
 #include <cmath>
