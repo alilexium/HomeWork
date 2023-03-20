@@ -1,4 +1,4 @@
-//Протабулировать функцию
+//РџСЂРѕС‚Р°Р±СѓР»РёСЂРѕРІР°С‚СЊ С„СѓРЅРєС†РёСЋ
 #include <iostream>
 #include <fstream>
 float funcTab(int i_parametr_ch, int xmin, float y, float x)
