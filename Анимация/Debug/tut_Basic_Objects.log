@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(44,17): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(53,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(56,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(63,26): warning C4305: =: усечение из "double" в "GLfloat"
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(74,37): warning C4244: -=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(76,27): warning C4305: =: усечение из "double" в "GLfloat"
+C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(77,26): warning C4305: =: усечение из "double" в "GLfloat"
+  tut_Basic_Objects.vcxproj -> C:\Users\Lenovo\Desktop\VS_OpenGL_tutorial\OpenGL_tutorial\Debug\tut_Basic_Objects.exe
